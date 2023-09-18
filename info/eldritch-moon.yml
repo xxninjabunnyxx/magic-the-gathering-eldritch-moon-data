@@ -1,0 +1,21 @@
+---
+object: set
+id: 5f0e4093-334f-4439-bbb5-a0affafd0ffc
+code: emn
+mtgo_code: emn
+arena_code: emn
+tcgplayer_id: 1790
+name: Eldritch Moon
+uri: https://api.scryfall.com/sets/5f0e4093-334f-4439-bbb5-a0affafd0ffc
+scryfall_uri: https://scryfall.com/sets/emn
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aemn&unique=prints
+released_at: '2016-07-22'
+set_type: expansion
+card_count: 208
+printed_size: 205
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: soi
+block: Shadows over Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/emn.svg?1694404800

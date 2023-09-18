@@ -1,0 +1,117 @@
+---
+object: card
+id: c4a8403e-bf4c-4aae-9102-188f49c61ddf
+oracle_id: 67b87332-44e1-4948-9269-5fc8f6107d0e
+multiverse_ids:
+- 414402
+mtgo_id: 61172
+mtgo_foil_id: 61173
+tcgplayer_id: 120011
+cardmarket_id: 290969
+name: Stromkirk Condemned
+lang: en
+released_at: '2016-07-22'
+uri: https://api.scryfall.com/cards/c4a8403e-bf4c-4aae-9102-188f49c61ddf
+scryfall_uri: https://scryfall.com/card/emn/106/stromkirk-condemned?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.jpg?1576384427
+  normal: https://cards.scryfall.io/normal/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.jpg?1576384427
+  large: https://cards.scryfall.io/large/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.jpg?1576384427
+  png: https://cards.scryfall.io/png/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.png?1576384427
+  art_crop: https://cards.scryfall.io/art_crop/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.jpg?1576384427
+  border_crop: https://cards.scryfall.io/border_crop/front/c/4/c4a8403e-bf4c-4aae-9102-188f49c61ddf.jpg?1576384427
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Creature — Vampire Horror
+oracle_text: 'Discard a card: Vampires you control get +1/+1 until end of turn. Activate
+  only once each turn.'
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 5f0e4093-334f-4439-bbb5-a0affafd0ffc
+set: emn
+set_name: Eldritch Moon
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/5f0e4093-334f-4439-bbb5-a0affafd0ffc
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aemn&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/emn?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c4a8403e-bf4c-4aae-9102-188f49c61ddf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67b87332-44e1-4948-9269-5fc8f6107d0e&unique=prints
+collector_number: '106'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Blood from the vein is the finest vintage to accompany a feast of the mind."
+  —Runo Stromkirk
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Magali Villeneuve
+artist_ids:
+- 9e6a55ae-be4d-4c23-a2a5-135737ffd879
+illustration_id: a2d4adc4-d8d7-41d8-b344-2a1b832f242d
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10019
+penny_rank: 2288
+prices:
+  usd: '0.15'
+  usd_foil: '0.69'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.28'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414402
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stromkirk+Condemned&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stromkirk+Condemned&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stromkirk+Condemned
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/120011?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stromkirk+Condemned&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/61172?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
